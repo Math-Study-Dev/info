@@ -1,2 +1,2 @@
-# info
-info pages for my repos
+# Info
+This page hosts info pages for my repos!
